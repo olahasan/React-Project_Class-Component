@@ -22,11 +22,11 @@
     "portfolio" : [
         {
             "id":1,
-            "image": "images/portfolio-img1.jpg"
+            "image": "/public/images/Portfolio/portfolio-img1.jpg"
         },
         {
             "id":2,
-            "image": "images/portfolio-img2.jpg"
+            "image": "/images/portfolio-img2.jpg"
         },
         {
             "id":3,
