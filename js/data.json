@@ -22,19 +22,19 @@
     "portfolio" : [
         {
             "id":1,
-            "image": "/images/portfolio-img1.jpg"
+            "image": "images/portfolio-img1.jpg"
         },
         {
             "id":2,
-            "image": "/images/portfolio-img2.jpg"
+            "image": "images/portfolio-img2.jpg"
         },
         {
             "id":3,
-            "image": "/images/portfolio-img3.jpg"
+            "image": "images/portfolio-img3.jpg"
         },
         {
             "id":4,
-            "image": "/images/portfolio-img4.jpg"
+            "image": "images/portfolio-img4.jpg"
         },
         {
             "id":5,
